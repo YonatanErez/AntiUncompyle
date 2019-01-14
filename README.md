@@ -1,5 +1,5 @@
 # AntiUncompyle
-AntiUncompyle is a tool for editing .pyc files so they will be immunable against python decompilers
+AntiUncompyle is a tool for editing .pyc files so they will be immune against python decompilers
 
 **USAGE:**  
 `python AntiUncompyle.py [-h] file.pyc`
